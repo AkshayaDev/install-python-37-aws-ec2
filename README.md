@@ -23,3 +23,9 @@ Installing Python3.7.0 in AWS EC2
 * cd ..
 * rm Python-3.7.0.tar.xz
 * sudo rm -rf Python-3.7.0
+
+# Or download and install
+
+wget http://...../install.sh # change URL with the install.sh raw URL
+chmod +x install.sh
+sudo ./install.sh
